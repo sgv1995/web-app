@@ -7,10 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cde2839-12bd-42f3-a262-bc53de4d1a11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT.war" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,7 +280,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575769084048</updated>
-      <workItem from="1575769096783" duration="6552000" />
+      <workItem from="1575769096783" duration="7178000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1575774417898</created>
@@ -305,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575774983069</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new name travis.yml">
+      <created>1575775817573</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575775817573</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +320,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="travis config" />
     <MESSAGE value="heroku config" />
-    <option name="LAST_COMMIT_MESSAGE" value="heroku config" />
+    <MESSAGE value="new name travis.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="new name travis.yml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="105" y="51" key="#Project_Structure" timestamp="1575772481840">
@@ -342,10 +348,10 @@
       <screen x="0" y="0" width="1024" height="779" />
     </state>
     <state x="286" y="305" width="478" height="168" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575770100522" />
-    <state x="150" y="0" key="CommitChangelistDialog2" timestamp="1575774981665">
+    <state x="150" y="0" key="CommitChangelistDialog2" timestamp="1575775814910">
       <screen x="0" y="0" width="1024" height="779" />
     </state>
-    <state x="150" y="0" key="CommitChangelistDialog2/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575774981665" />
+    <state x="150" y="0" key="CommitChangelistDialog2/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575775814910" />
     <state x="293" y="137" key="FileChooserDialogImpl" timestamp="1575772163289">
       <screen x="0" y="0" width="1024" height="779" />
     </state>
@@ -398,9 +404,9 @@
       <screen x="0" y="0" width="1024" height="779" />
     </state>
     <state width="666" height="196" key="GridCell.Tab.2.right/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575773597739" />
-    <state x="105" y="114" key="Vcs.Push.Dialog.v2" timestamp="1575775051611">
+    <state x="105" y="114" key="Vcs.Push.Dialog.v2" timestamp="1575775830063">
       <screen x="0" y="0" width="1024" height="779" />
     </state>
-    <state x="105" y="114" key="Vcs.Push.Dialog.v2/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575775051611" />
+    <state x="105" y="114" key="Vcs.Push.Dialog.v2/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575775830063" />
   </component>
 </project>
