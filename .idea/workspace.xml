@@ -7,9 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cde2839-12bd-42f3-a262-bc53de4d1a11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/web-app-1.0-SNAPSHOT.war" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +282,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575769084048</updated>
-      <workItem from="1575769096783" duration="5721000" />
+      <workItem from="1575769096783" duration="6552000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1575774417898</created>
@@ -297,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575774584718</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="heroku config">
+      <created>1575774983069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575774983069</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +314,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="travis config" />
-    <option name="LAST_COMMIT_MESSAGE" value="travis config" />
+    <MESSAGE value="heroku config" />
+    <option name="LAST_COMMIT_MESSAGE" value="heroku config" />
   </component>
   <component name="WindowStateProjectService">
     <state x="105" y="51" key="#Project_Structure" timestamp="1575772481840">
@@ -333,30 +342,30 @@
       <screen x="0" y="0" width="1024" height="779" />
     </state>
     <state x="286" y="305" width="478" height="168" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575770100522" />
-    <state x="150" y="0" key="CommitChangelistDialog2" timestamp="1575774583373">
+    <state x="150" y="0" key="CommitChangelistDialog2" timestamp="1575774981665">
       <screen x="0" y="0" width="1024" height="779" />
     </state>
-    <state x="150" y="0" key="CommitChangelistDialog2/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575774583373" />
+    <state x="150" y="0" key="CommitChangelistDialog2/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575774981665" />
     <state x="293" y="137" key="FileChooserDialogImpl" timestamp="1575772163289">
       <screen x="0" y="0" width="1024" height="779" />
     </state>
     <state x="293" y="137" key="FileChooserDialogImpl/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575772163289" />
-    <state width="981" height="196" key="GridCell.Tab.0.bottom" timestamp="1575773945140">
+    <state width="981" height="196" key="GridCell.Tab.0.bottom" timestamp="1575775756588">
       <screen x="0" y="0" width="1024" height="779" />
     </state>
-    <state width="981" height="196" key="GridCell.Tab.0.bottom/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575773945140" />
-    <state width="981" height="196" key="GridCell.Tab.0.center" timestamp="1575773945140">
+    <state width="981" height="196" key="GridCell.Tab.0.bottom/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575775756588" />
+    <state width="981" height="196" key="GridCell.Tab.0.center" timestamp="1575775756588">
       <screen x="0" y="0" width="1024" height="779" />
     </state>
-    <state width="981" height="196" key="GridCell.Tab.0.center/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575773945140" />
-    <state width="981" height="196" key="GridCell.Tab.0.left" timestamp="1575773945140">
+    <state width="981" height="196" key="GridCell.Tab.0.center/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575775756588" />
+    <state width="981" height="196" key="GridCell.Tab.0.left" timestamp="1575775756587">
       <screen x="0" y="0" width="1024" height="779" />
     </state>
-    <state width="981" height="196" key="GridCell.Tab.0.left/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575773945140" />
-    <state width="981" height="196" key="GridCell.Tab.0.right" timestamp="1575773945140">
+    <state width="981" height="196" key="GridCell.Tab.0.left/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575775756587" />
+    <state width="981" height="196" key="GridCell.Tab.0.right" timestamp="1575775756588">
       <screen x="0" y="0" width="1024" height="779" />
     </state>
-    <state width="981" height="196" key="GridCell.Tab.0.right/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575773945140" />
+    <state width="981" height="196" key="GridCell.Tab.0.right/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575775756588" />
     <state width="666" height="196" key="GridCell.Tab.1.bottom" timestamp="1575773597739">
       <screen x="0" y="0" width="1024" height="779" />
     </state>
@@ -389,5 +398,9 @@
       <screen x="0" y="0" width="1024" height="779" />
     </state>
     <state width="666" height="196" key="GridCell.Tab.2.right/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575773597739" />
+    <state x="105" y="114" key="Vcs.Push.Dialog.v2" timestamp="1575775051611">
+      <screen x="0" y="0" width="1024" height="779" />
+    </state>
+    <state x="105" y="114" key="Vcs.Push.Dialog.v2/0.0.1024.779/-1280.0.1024.779@0.0.1024.779" timestamp="1575775051611" />
   </component>
 </project>
